@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Luke 👋
 
-<!--
-**lukeku-dev/lukeku-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer (Backend / AI)  
+📍 Seattle, WA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- Gmail AI Agent (Python + OpenAI)
+- Task Manager API (Node.js)
+- AWS Cloud System
+
+---
+
+## 🛠 Tech Stack
+Python | Java | C++ | JavaScript  
+React | Node.js | AWS | Docker  
+
+---
+
+## 📫 Contact
+Email: kuhx0621@gmail.com
